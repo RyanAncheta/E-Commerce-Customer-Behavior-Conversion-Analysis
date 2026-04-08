@@ -110,7 +110,6 @@ Conversion increases with engagement depth.
 ### Behavioral Insights  
 ![Behavior](images/behavior.png)
 
-> Replace images with your actual screenshots inside an `/images` folder.
 
 ---
 
